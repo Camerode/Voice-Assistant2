@@ -1,0 +1,30 @@
+{
+    "intents": [
+        {
+            "tag": "greeting",
+            "pattern": ["hello", "hi", "hey"],
+            "responses": [
+                "Hi there, how can I help you {user_name}?",
+                "Hello! What can I assist you with today?",
+                "Hey! How may I be of service?"
+            ]
+        },
+        {
+            "tag": "goodbye",
+            "pattern": ["bye", "see you later"],
+            "responses": [
+                "Goodbye! Have a great day!",
+                "Farewell! Don't hesitate to return if you need assistance.",
+                "See you later! Take care!"
+            ]
+        },
+        {
+            "tag": "How are you",
+            "pattern": ["How are you", "what is up"],
+            "responses": [
+                "Ready for anything you need!",
+                "Hmm, I do not know, what are you up to?"
+            ]
+        }
+    ]
+}
