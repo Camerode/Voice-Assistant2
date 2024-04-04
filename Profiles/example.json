@@ -1,0 +1,13 @@
+{
+    "name": "Example",
+    "settings": {
+        "wake_word": "",
+        "spotify_devices": {
+            "example": "Change name - Put spotify device ID here"
+        },
+        "bluetooth_devices": {
+            "example": "Change name - Put device MAC address here"
+        },
+        "current_spotify_device": ""
+    }
+}
