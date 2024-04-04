@@ -1,6 +1,6 @@
 # Voice-Assistant2
 Meant to be used as a framework/example.
-*Made for Windows...*
+*Made for Windows and coded in Python 3.11.1*
 
 **Requirements:**
 ```
