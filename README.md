@@ -1,7 +1,6 @@
 # Voice-Assistant2
 Meant to be used as a framework/example.
 
-**Installation requires:**
 *Requirements:*
 ```
 pip install SpeechRecognition
